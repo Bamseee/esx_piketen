@@ -6,9 +6,6 @@ version '1.0.1'
 
 server_scripts {
   '@es_extended/locale.lua',
-  'locales/br.lua',
-  'locales/en.lua',
-  'locales/fr.lua',
   'locales/es.lua',
   '@mysql-async/lib/MySQL.lua',
   'config.lua',
@@ -17,9 +14,6 @@ server_scripts {
 
 client_scripts {
   '@es_extended/locale.lua',
-  'locales/br.lua',
-  'locales/en.lua',
-  'locales/fr.lua',
   'locales/es.lua',
   'config.lua',
   'client/main.lua'
