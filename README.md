@@ -1,4 +1,7 @@
 # fxserver-esx_piketen
+THIS IS A SHIT SCRIPT DOWNLOAD IT ONLY IF U ARE STUPID!
+
+
 FXServer ESX Piketen
 
 This script is only in swedish so u need to translate it by your self if u wanna
